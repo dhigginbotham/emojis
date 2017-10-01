@@ -1,0 +1,19 @@
+{
+  "name": "mojis",
+  "version": "1.0.0",
+  "description": "scrapes mojis from place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'hahahahahahahaha'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dhigginbotham/emojis.git"
+  },
+  "author": "dhigginbotham <davehigginbotham@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhigginbotham/emojis/issues"
+  },
+  "homepage": "https://github.com/dhigginbotham/emojis#readme"
+}
